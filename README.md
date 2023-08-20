@@ -5,6 +5,7 @@
 
 Notatin is a Rust library for parsing offline Windows Registry files. It includes Python bindings for the library (pynotatin) and binaries for working directly with registry files.
 
+
 ## Features
  - Implemented using 100% safe Rust, and works on all platforms supported by Rust (that have stdlib). Tested in Windows and Ubuntu.
  - Supports applying transaction logs, and recovering deleted and modified keys and values.
